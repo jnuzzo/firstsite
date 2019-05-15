@@ -1,2 +1,3 @@
 # firstsite
-My first site of learning and testing Bootstrap 4
+My first site of learning and testing. 
+Includes Bootstrap 4.3
