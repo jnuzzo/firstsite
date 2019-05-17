@@ -1,0 +1,17 @@
+$full: 100%;
+
+body {
+	height: $full;
+	width: $full; 
+}
+
+.nuzzo-header {
+	width: $full;
+	position: relative;
+	min-height: 500px;
+	background-image: url('../img/familyphoto.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+
+}
