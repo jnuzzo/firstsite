@@ -7,12 +7,27 @@ body {
 
 .nuzzo-header {
 	width: $full;
-	position: relative;
+	/* position: relative; */
 	min-height: 350px;
 	background-image: url('../img/familyphoto.jpg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
 	text-align: center;
+	padding-top: 125px;
+}
+/* .nuzzo-mainbkgrd {
+ 	background-image: url('../img/stardust.png');
+ 	background-repeat: repeat;
+ 	background-position: center;
+ 	height: $full;
+ } */
 
+.nuzzo-footer {
+	width: $full;
+	/* position: relative; */
+	min-height: 250px;
+	background-color: #545E75;
+	text-align: center;
+	padding-top: 125px;
 }

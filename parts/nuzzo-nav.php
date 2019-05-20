@@ -1,12 +1,22 @@
-<nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
+<nav class="navbar navbar-expand-xl navbar-light bg-secondary sticky-top">
   <a class="navbar-brand" href="index.php">Nuzzo.com</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item">
-        <a class="nav-link font-weight-bold" href="#">Family Photos</a>
+       <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Family Photos
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Bill</a>
+          <a class="dropdown-item" href="#">Helga</a>
+          <a class="dropdown-item" href="#">Mark and Family</a>
+          <a class="dropdown-item" href="#">Chris and Family</a>
+          <a class="dropdown-item" href="#">Heidi and Family</a>
+          <a class="dropdown-item" href="#">Jay and Family</a>
+        </div>
       </li>
       <li class="nav-item">
         <a class="nav-link font-weight-bold" href="#">Fly Fishing</a>
