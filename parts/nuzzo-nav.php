@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-xl navbar-light bg-secondary sticky-top">
+<nav class="navbar navbar-expand-xl navbar-light sticky-top" style="background: #8D909B;">
   <a class="navbar-brand" href="index.php">Nuzzo.com</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>

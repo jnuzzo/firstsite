@@ -1,9 +1,7 @@
-<div class="nuzzo-footer">
-	<header class="">
-		<h1>Welcome to Nuzzo.com</h1>
-		<h6>Home of the Nuzzo Family</h6>
-	</header>
-</div>
+<footer class="nuzzo-footer">
+	<h1>Welcome to Nuzzo.com</h1>
+	<h6>Home of the Nuzzo Family</h6>
+</footer>
 
 
 
