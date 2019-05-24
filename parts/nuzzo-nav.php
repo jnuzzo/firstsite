@@ -25,16 +25,16 @@
         <a class="nav-link font-weight-bold" href="#">My Rhymes</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link font-weight-bold" href="#">Woodturning</a>
+        <a class="nav-link font-weight-bold" href="single.php">Woodturning</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link font-weight-bold" href="#">Western Art</a>
+        <a class="nav-link font-weight-bold" href="single.php">Western Art</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link font-weight-bold" href="#">Horses</a>
+        <a class="nav-link font-weight-bold" href="single.php">Horses</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link font-weight-bold" href="#">Folmont</a>
+        <a class="nav-link font-weight-bold" href="single.php">Folmont</a>
       </li>
       <li>
         <a class="btn btn-success ml-3" href="contact-me.php">Contact Me</a>

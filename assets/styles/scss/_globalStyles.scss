@@ -7,13 +7,28 @@ body {
 }
 
 a {
-	color: #A9BCD0 !important;
+	color: #D7F9F1 !important;
 	transition: 0.4s ease-in-out;
 }
 
 a:hover {
-	color: #D7F9F1 !important;
+	color: #EDFFEC !important;
 	transition: 0.4s ease-in-out;
+}
+p {
+	color: #D8F9F1;
+	text-shadow: 2px 2px 3px #000;
+	font-family: 'Roboto', cursive;	
+}
+span {
+	color: #D8F9F1;
+	text-shadow: 2px 2px 3px #000;
+	font-family: 'Roboto', cursive;	
+}
+h1, h2, h3, h4, h5, h6 {
+	color: #D8F9F1;
+	text-shadow: 4px 4px 5px #000;
+	font-family: 'Abril Fatface', cursive;
 }
 .nuzzo-header {
 	width: $full;
@@ -55,4 +70,25 @@ a:hover {
 	width: $full;
 	object-fit: cover;
 	overflow: hidden;
+}
+.int-page {
+	position: relative;
+	display: block;
+	min-height: 500px;
+	width: $full;
+}
+.single-header {
+	width: $full;
+	position: relative; 
+	min-height: 725px;
+	background-image: url('../img/single1.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: cover;
+	text-align: center;
+	padding-top: 300px;
+	margin-bottom: -20px;
+	color: #FFF;
+	text-shadow: 4px 4px 5px #000;
 }
