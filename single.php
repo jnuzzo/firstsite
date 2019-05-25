@@ -1,8 +1,11 @@
 <?php include 'header.php';  ?>
+<?php include 'parts/nuzzo-nav.php'; ?>
 <?php include 'parts/single-header.php'; ?>
 <div class="container pt-5">
 
-  	<h3>The MacLean Clan Event</h3><p>was held to commemorate the building of Fort Duart on the Forbes Road during the French and Indian War in August 1758 by Captain Sir Allan MacLean, 22nd Clan Chief.  The event was planned by the Folmont Property Owners Association, the Clan Maclean Heritage Trust and Clan Gillean.</p>
+	<p><span class="h3 title-font">The MacLean Clan Event</span>
+	was held to commemorate the building of Fort Duart on the Forbes Road during the French and Indian War in August 1758 by Captain Sir Allan MacLean, 22nd Clan Chief.  The event was planned by the Folmont Property Owners Association, the Clan Maclean Heritage Trust and Clan Gillean.
+	</p>
 
 	<p>The Fort and over one mile of the historic Forbes Road on Allegheny Mountain is owned and managed by the FPOA.  The attendees gathered at the home of Bill and Helga Nuzzo about 200 yards from the fort. Over 40 members of Clan MacLean and Clan Gillian from around the world came to the event, including Sir Lachlan Maclean, 28th Maclean Clan Chief, of Castle Duart on the Isle of Mull, Scotland, along with members of the FPOA, which is now in the process of getting the site added to the US National List of Historic Places.</p>
 

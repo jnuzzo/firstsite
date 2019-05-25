@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-xl navbar-light sticky-top" style="background: #8D909B;">
   <a class="navbar-brand" href="index.php">Nuzzo.com</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
+    <i class="fas fa-bars fa-2x"></i>
   </button>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
@@ -19,22 +19,10 @@
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link font-weight-bold" href="#">Fly Fishing</a>
+        <a class="nav-link font-weight-bold" href="single.php">Fly Fishing</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link font-weight-bold" href="#">My Rhymes</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link font-weight-bold" href="single.php">Woodturning</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link font-weight-bold" href="single.php">Western Art</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link font-weight-bold" href="single.php">Horses</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link font-weight-bold" href="single.php">Folmont</a>
+        <a class="nav-link font-weight-bold" href="single.php">My Rhymes</a>
       </li>
       <li>
         <a class="btn btn-success ml-3" href="contact-me.php">Contact Me</a>

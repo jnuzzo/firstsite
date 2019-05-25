@@ -25,15 +25,15 @@ span {
 	text-shadow: 2px 2px 3px #000;
 	font-family: 'Roboto', cursive;	
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, .title-font {
 	color: #D8F9F1;
-	text-shadow: 4px 4px 5px #000;
+	text-shadow: 2px 2px 3px #000;
 	font-family: 'Abril Fatface', cursive;
 }
 .nuzzo-header {
 	width: $full;
 	position: relative; 
-	min-height: 365px;
+	min-height: 800px;
 	background-image: url('../img/familyphoto.jpg');
 	background-repeat: no-repeat;
 	background-position: center;
@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
 	min-height: 250px;
 	background-color: #545E75;
 	text-align: center;
-	padding-top: 125px;
+	padding-top: 75px;
 }
 .zoom {
 	padding: 0px;
@@ -91,4 +91,10 @@ h1, h2, h3, h4, h5, h6 {
 	margin-bottom: -20px;
 	color: #FFF;
 	text-shadow: 4px 4px 5px #000;
+	@include breakpoint (md) {
+	font-size: 24px;
+}
+}
+.input-group-prepend {
+	text-shadow: 2px 2px 3px #000;
 }

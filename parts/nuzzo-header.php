@@ -1,4 +1,4 @@
 <div class="nuzzo-header">
-	<h1>Welcome to Nuzzo.com</h1>
-	<h6>Home of the Nuzzo Family</h6>
+	<h1 class="display-1">Welcome to Nuzzo.com</h1>
+	<p class="h6 display-4">Home of the Nuzzo Family</p>
 </div>
