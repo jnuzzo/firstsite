@@ -22,7 +22,7 @@
         <a class="nav-link font-weight-bold" href="single.php">Fly Fishing</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link font-weight-bold" href="single.php">My Rhymes</a>
+        <a class="nav-link font-weight-bold" href="jspractice.php">My Rhymes</a>
       </li>
       <li>
         <a class="btn btn-success ml-3" href="contact-me.php">Contact Me</a>
